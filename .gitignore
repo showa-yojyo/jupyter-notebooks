@@ -1,0 +1,6 @@
+# Local rules
+mltutorial-examples
+sympy-examples
+
+# Jupyter Notebook
+.ipynb_checkpoints
